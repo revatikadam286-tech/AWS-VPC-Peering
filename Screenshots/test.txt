@@ -1,0 +1,3 @@
+## Project Screenshots
+### 1. VPC-A Configuration
+![VPC-A](screenshots/01-VPC.png)
