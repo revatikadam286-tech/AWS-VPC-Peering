@@ -47,6 +47,7 @@ This project was created for hands-on learning and practical understanding of AW
 # Screenshots
 ## 1. VPC
 <img width="1917" height="660" alt="VPC" src="https://github.com/user-attachments/assets/cc51c5b5-f56f-4582-9d56-4e5b0e24655a" />
+
 ## 2. Subnets
 <img width="1917" height="547" alt="Subnets" src="https://github.com/user-attachments/assets/5c0319d7-6d1f-4477-b387-87d0fbaa4599" />
 
