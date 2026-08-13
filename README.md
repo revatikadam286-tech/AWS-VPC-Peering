@@ -47,3 +47,18 @@ This project was created for hands-on learning and practical understanding of AW
 # Screenshots
 1. VPC
 <img width="1917" height="660" alt="VPC" src="https://github.com/user-attachments/assets/cc51c5b5-f56f-4582-9d56-4e5b0e24655a" />
+2. Subnets
+<img width="1917" height="547" alt="Subnets" src="https://github.com/user-attachments/assets/5c0319d7-6d1f-4477-b387-87d0fbaa4599" />
+3. Internet Gateway
+<img width="1917" height="512" alt="Internet Gateway" src="https://github.com/user-attachments/assets/1e3220e5-1016-41da-8187-e1d600cd7ec2" />
+4. Route Table
+<img width="1917" height="627" alt="Route Table" src="https://github.com/user-attachments/assets/4286f802-2725-4a09-99a2-f0d56ba726d6" />
+5. VPC Peering
+<img width="1917" height="1020" alt="Peering Connection" src="https://github.com/user-attachments/assets/293f6947-f064-4aa3-9935-9650337c19dc" />
+6. Instances
+<img width="1917" height="1017" alt="instances" src="https://github.com/user-attachments/assets/df184049-e81d-424f-a4f7-982e7a4baae5" />
+7. Connectivity Test
+<img width="1917" height="1015" alt="instance A ping" src="https://github.com/user-attachments/assets/0ba62522-5dbf-428e-98bb-a3e21ba92a57" />
+<img width="1915" height="1017" alt="instance B ping" src="https://github.com/user-attachments/assets/2f79f06d-cc8b-4f7f-933b-cce9ef804240" />
+
+
