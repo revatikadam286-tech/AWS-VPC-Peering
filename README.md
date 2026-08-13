@@ -45,7 +45,7 @@ Through this project, I learned how AWS VPC networking works and how different A
 AWS Cloud & Networking Project
 This project was created for hands-on learning and practical understanding of AWS networking concepts.
 # Screenshots
-**1. VPC**
+## 1. VPC
 <img width="1917" height="660" alt="VPC" src="https://github.com/user-attachments/assets/cc51c5b5-f56f-4582-9d56-4e5b0e24655a" />
 
 **2. Subnets**
