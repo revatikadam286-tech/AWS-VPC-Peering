@@ -41,7 +41,7 @@ Through this project, I learned how AWS VPC networking works and how different A
 - Configure cross-region VPC Peering.
 - Use AWS Transit Gateway for connecting multiple VPCs.
 - Implement additional security controls and monitoring.
-# Project Type
+### Project Type
 AWS Cloud & Networking Project
 This project was created for hands-on learning and practical understanding of AWS networking concepts.
 # Screenshots
